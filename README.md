@@ -1,2 +1,2 @@
 # SimpleJava_culculator
-Easy to use calculator
+Easy to use calculator.
